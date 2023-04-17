@@ -1,0 +1,1 @@
+In hindsight, I believe the way I calculated distance ended up producing very skewed and random clusters. So, I just ended up clustering direcly on distance and didn't cluster based on the examples given. 
